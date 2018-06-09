@@ -22,7 +22,7 @@ function Liker.OnUpdate()
 			end
 		
 		end
-		Log.Write("Liker Script by Kiyoshi")
+		--Log.Write("Liker Script by Kiyoshi")
 		--Log.Write(dump(NPCsTable))
 		--Log.Write(NPCsTableLenght)
 		--Liker.Sleep(10,"updaterate")
